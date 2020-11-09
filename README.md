@@ -6,4 +6,5 @@ Cell 4:
 2. "your_password" - enter your instagram password
 
 Cell 6:
+
 3. "#yourhashtag" - enter the hashtag you want to scrape images from
